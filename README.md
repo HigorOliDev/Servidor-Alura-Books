@@ -85,13 +85,13 @@ alura-books-server/
 `````
 Resumo do papel de cada parte:
 
-app.js: arquivo principal do servidor Express.
-rotas/: define os endpoints, tipo /livros e /favoritos.
-controladores/: recebe a requisição e monta a resposta.
-servicos/: contém a lógica de leitura, busca, inserção e remoção dos dados.
-livros.json: funciona como “banco de dados” dos livros.
-favoritos.json: guarda os livros favoritados.
-package.json: configura dependências e informações do projeto.
+1. app.js: arquivo principal do servidor Express.
+2. rotas/: define os endpoints, tipo /livros e /favoritos.
+3. controladores/: recebe a requisição e monta a resposta.
+4. servicos/: contém a lógica de leitura, busca, inserção e remoção dos dados.
+5. livros.json: funciona como “banco de dados” dos livros.
+6. favoritos.json: guarda os livros favoritados.
+7. package.json: configura dependências e informações do projeto.
 
 **Observação: para funcionamento completo do projeto é necessário a parte Front-end localizado em outro repositório.**
 
