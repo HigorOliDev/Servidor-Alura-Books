@@ -93,8 +93,7 @@ livros.json: funciona como “banco de dados” dos livros.
 favoritos.json: guarda os livros favoritados.
 package.json: configura dependências e informações do projeto.
 
-## Sobre o projeto
-Este projeto foi criado com o objetivo de praticar conceitos de React, como componentização, rotas, consumo de API, estado e renderização de listas. **Observação: para funcionamento completo do projeto é necessário a parte Front-end localizado em outro repositório.**
+**Observação: para funcionamento completo do projeto é necessário a parte Front-end localizado em outro repositório.**
 
 
 
